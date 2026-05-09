@@ -1,0 +1,40 @@
+---
+title: "W08-Data Analytics (Google Cloud BigQuery and Looker Studio)"
+author: "Amir Alnajjar"
+date: today
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    toc-expand: 2
+    code-tools: true
+    css: w08.css
+    embed-resources: true
+number-sections: true
+self-contained: true
+---
+
+## Certification
+
+![](image1.png)
+
+## **Summary**
+
+## **Introduction to the Basics of BigQuery**
+
+> This course allowed me to gain a good idea of the functionality of BigQuery as a cloud-based data warehouse. I was also able to know how organizations can store and process big data sets without involving the use of traditional database systems. I also examined the underlying data organization as tables and query parameters that help in extracting useful information using publicly available datasets. The experience enabled me to understand the importance of scalable data solutions in contemporary analytics. The speed and other features of BigQuery enabled one to concentrate on insights rather than technical constraints and this is useful in a business world where immediate decisions are necessary.
+>
+> I also exercised in writing SQL queries to filter, sort and aggregate data. I learned how to utilize functions like COUNT and AVG which have aided me in summarizing massive datasets into valuable information. I also considered joining various tables, which taught me how data provided by one or more sources may be used together to provide solutions to multifaceted queries. The importance of these skills lies in the fact that they are representative of real-world analytics tasks in which data is not always clean or in a central place. In general, I became confident in my ability to use SQL as a means of deriving information out of raw data.
+
+### **Creating Data Visualizations in looker Studio**
+
+> Besides the data analysis, I was taught to present data with the help of Looker Studio. I also linked data sets in BigQuery and performed visualization like line charts to monitor trends in time. This led me to realize how the visual tools ease the complex data and make it more accessible to the wider audience. I learned that data visualization is crucial since they enable parties to perceive patterns effectively and make sound decisions within a short time without the need to have technical expertise.
+>
+> I also read about other types of charts, such as column and geo charts, and it allowed me to learn how the visualization choices should be considered in terms of their effect on interpretation. I refined the presentation of the data by modifying the measures and dimensions. The practice guided me to clear and simple are major principles in designing dashboards. Raw numbers alone cannot provide as much information as a carefully designed visualization can. This is an important skill in business contexts where clarity of communication determines the strategy and performance.
+
+### **Using Data Analytics in Real World Problems**
+
+> The course has enabled me to use my abilities in applying information of global temperatures in a real world so as to have the context in which the learning will be undertaken. I used a systematic method when going through a process of defining a problem, analyzing data, and presenting a result in a visual form. This exercise has made me realize that data analytics is not a purely technical task; it is a process that requires critical thinking and interpretation, too. It strengthened the theme that whenever dealing with data, it must back up with meaningful questions.
+>
+> I also got to know how using BigQuery with the help of Looker Studio will provide an entire workflow with analytics. BigQuery is used when it comes to processing data and visualizing and reporting are the tasks that Looker Studio handles. This integration demonstrated to me how the tools were integrated in the real-life situations. Towards the close of the course, I was better equipped to use data analytics in business. I can now interpret raw data to create actionable information that would aid in making a decision.

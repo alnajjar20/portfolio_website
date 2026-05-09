@@ -1,0 +1,159 @@
+---
+title: "M06-Reflection Essay-Advanced Data Wrangling"
+author: "Amir Alnajjar"
+date: today
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+editor: visual
+execute: 
+  freeze: auto
+---
+
+## Qn 1 – New Tidyverse Tricks
+
+Step 1 had a lot of new things, explained below are few of them;
+
+**case_when()** – Helps create categories based on conditions. Much cleaner than writing multiple ifelse statements.
+
+**across()** – Applies the same calculation to many columns at once. Saves time and reduces repetition.
+
+**tidyselect helpers** – Select columns by patterns like starts_with() or contains(). Useful for large datasets.
+
+These tools make code shorter and easier to read. They show how experienced analysts work efficiently.
+
+## Qn 2 – David Robinson Screencast
+
+David Robinson explored data quickly in his video.
+
+He looked at the dataset, transformed variables, and made visualizations. He used functions like mutate(), filter(), and ggplot().
+
+I couldn't follow every line because he typed fast. But I understood the overall process:
+
+-   Check what's in the data
+
+-   Clean and transform as needed
+
+-   Make plots to find patterns
+
+-   Dig deeper when something looks interesting
+
+Watching him work showed me how real data analysis flows.
+
+## Qn 3 – Two Cleaning Videos
+
+**First video – basic cleaning:**
+
+-   Renamed variables to make them clear
+
+-   Checked for missing values
+
+-   Removed responses that were clearly wrong
+
+-   Made the dataset usable
+
+**Second video – deeper cleaning:**
+
+-   Applied stricter rules
+
+-   Removed incomplete or low-quality responses
+
+-   Made variables consistent
+
+-   Improved data reliability
+
+The first pass kept more data. The second pass removed more observations but improved quality. Smaller dataset, but better for analysis.
+
+## Qn 4 – Revealjs Presentations
+
+Revealjs offers features different from PowerPoint.
+
+**What it can do:**
+
+-   Show content step by step
+
+-   Add slide transitions
+
+-   Use custom themes
+
+-   Embed code and charts directly in slides
+
+-   Update visuals when data changes
+
+**Strengths:**
+
+-   Reproducible – slides come from code
+
+-   Charts stay connected to data
+
+-   Good for technical presentations
+
+**Weaknesses:**
+
+-   Requires coding knowledge
+
+-   Takes longer to set up
+
+-   Less familiar to most people
+
+Good for data science work. PowerPoint is easier for quick presentations.
+
+## Qn 5 - Proposal Presentation
+
+The presentation is about a plan summary of the class project. It describes the different webpages to be contained in the portfolio. Click [here](https://alnajjaramir.github.io/Reflection-on-Advanced-Data-Wrangling-in-R---Step-7/) to access the presentation.
+
+## Qn 6 – Three Functions from Step 6
+
+**left_join()**\
+Merges two datasets while keeping all rows from the first table.\
+Example: `left_join(employees, departments, by = "dept_id")`\
+Result: Employee records with department names added.
+
+**rowwise()**\
+Lets you calculate across columns within each row.\
+Example: `df %>% rowwise() %>% mutate(avg = mean(c(score1, score2, score3)))`\
+Result: New column with each row's average.
+
+**case_when()**\
+Creates categories based on conditions.\
+Example: `mutate(age_group = case_when(age < 18 ~ "Child", age < 65 ~ "Adult", TRUE ~ "Senior"))`\
+Result: New column classifying each person.
+
+## Qn 7 – What I Liked Most
+
+I enjoyed learning how to clean messy data.
+
+Real data is never perfect. Names are unclear. Values are missing. Information is scattered across tables.
+
+Tidyverse tools help fix these problems. mutate() creates new variables. filter() keeps what matters. joins combine datasets.
+
+The pipe (%\>%) connects everything in a clear sequence. You can see each step as data moves through the process.
+
+Wrangling isn't flashy. But without it, analysis fails. Clean data makes everything else possible.
+
+## Qn 8 – Challenges and Solutions
+
+**Challenge 1 – Too many functions to remember**\
+Some functions do similar things. Easy to mix them up.
+
+**Solution:** Practice regularly. Use cheat sheets. Review class examples.
+
+**Challenge 2 – Debugging errors**\
+Code runs but gives wrong results. Hard to find the problem.
+
+**Solution:** Run code step by step. Check data after each step. Test with small samples first.
+
+**Challenge 3 – Syntax mistakes**\
+Missing parentheses or wrong column names cause failures.
+
+**Solution:** Read error messages carefully. Check column names. Use RStudio's highlighting.
+
+Regular practice helps. Each project builds confidence.
+
+## Qn 9 - Link to the report
+
+Here is the [link](https://alnajjaramir.github.io/Reflection-on-Advanced-Data-Wrangling-in-R-Step-7-report/) this report.
