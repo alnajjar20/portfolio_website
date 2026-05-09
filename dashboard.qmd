@@ -1,0 +1,109 @@
+---
+title: "Projects Analytics Dashboard"
+format: html
+---
+
+## Dashboard Overview
+
+Project summaries with supporting visuals
+
+### 1. Multilingual Campus Resource Guide
+
+#### Guide distributed to 150+ students
+
+
+```{r}
+#| echo: false
+# Load required libraries 
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+
+
+# Data: Students reached with the guide
+students_reached <- data.frame(
+  Metric = "Students reached\n(orientation week)",
+  Count = 152
+)
+
+ggplot(students_reached, aes(x = Metric, y = Count, fill = Metric)) +
+  geom_col(width = 0.6, fill = "#2c7da0") +
+  geom_text(aes(label = paste0(Count, "+")), vjust = -0.5, size = 5) +
+  labs(y = "Number of students", x = NULL, 
+       title = "Distribution of Trilingual Resource Guide") +
+  theme(axis.text.x = element_text(angle = 0, hjust = 0.5),
+        plot.title = element_text(hjust = 0.5)) +
+  ylim(0, 180)
+```
+
+### 2. Team Collaboration Case Study
+
+#### 95% on final report, Peer feedback: 4.8/5 (“kept everyone focused and respected”)
+
+```{r}
+#| echo: false
+
+# Data: Grade and peer feedback score
+performance <- data.frame(
+  Metric = c("Final Grade (%)", "Peer feedback\n(out of 5)"),
+  Value = c(95, 4.8)
+)
+
+ggplot(performance, aes(x = Metric, y = Value, fill = Metric)) +
+  geom_col(width = 0.6) +
+  geom_text(aes(label = Value), vjust = -0.5, size = 5) +
+  labs(y = "Score", x = NULL,
+       title = "Team Performance & Satisfaction") +
+  scale_fill_manual(values = c("#2c7da0", "#5fa8c9")) +
+  theme(legend.position = "none") +
+  ylim(0, 105)
+```
+
+Key outcomes:
+
+- Team completed simulation 2 days early
+
+- 95% on final report
+
+- Peer feedback: 4.8/5 (“kept everyone focused and respected”)
+
+Skills: Conflict mediation • Meeting facilitation • Documentation • Adaptability
+
+
+### 3. Rancho Cucamonga High School Alumni Panel
+
+#### 40+ high school students attended, 92% felt more confident about applying to college
+
+```{r}
+#| echo: false
+
+# Data: Attendance and confidence improvement
+impact <- data.frame(
+  Category = c("Attendance\n(students)", "Confidence increase\n(post‑event survey)"),
+  Percentage_or_Count = c(40, 92)
+)
+
+# Create a two‑panel visual: one bar for attendance, one for confidence
+attendance <- data.frame(Metric = "Attendees", Count = 40)
+confidence <- data.frame(Metric = "Felt more confident", Percent = 92)
+
+p1 <- ggplot(attendance, aes(x = Metric, y = Count, fill = Metric)) +
+  geom_col(width = 0.5, fill = "#2c7da0") +
+  geom_text(aes(label = paste0(Count, "+")), vjust = -0.5, size = 5) +
+  labs(y = "Number of students", x = NULL, title = "Event Reach") +
+  theme_minimal() +
+  ylim(0, 50)
+
+p2 <- ggplot(confidence, aes(x = Metric, y = Percent, fill = Metric)) +
+  geom_col(width = 0.5, fill = "#5fa8c9") +
+  geom_text(aes(label = paste0(Percent, "%")), vjust = -0.5, size = 5) +
+  labs(y = "Percentage (%)", x = NULL, title = "Confidence Boost") +
+  theme_minimal() +
+  ylim(0, 100)
+
+# Arrange side by side
+gridExtra::grid.arrange(p1, p2, ncol = 2)
+```
+
+
+

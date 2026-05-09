@@ -30,6 +30,7 @@ website:
         - digital-marketing.qmd
         - google-analytics.qmd
         - projects.qmd
+        - dashboard.qmd
 
 format:
   html:
