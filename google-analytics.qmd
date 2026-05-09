@@ -1,0 +1,105 @@
+---
+title: "Google Analytics"
+format: html
+editor: source
+---
+
+## Overview
+
+As part of my professional development at Cal Poly Pomona, I have completed introductory Google Analytics exercises and simulated projects to understand how data can inform communication and team decisions. Below are three projects that blend analytics thinking with my multilingual and collaborative skills.
+
+> **Note:** These are academic simulation projects using Google Analytics demo accounts and sample datasets. They demonstrate my ability to interpret basic metrics, ask the right questions, and present insights clearly.
+
+---
+
+### Project 1: Multilingual Audience Analysis
+
+**Objective:** Analyze how website visitors who speak different languages engage with content, and recommend localization improvements.
+
+**Tools Used:**  
+Google Analytics 4 (Demo Account – Google Merchandise Store) • Google Sheets
+
+**Process:**  
+1. Filtered traffic by **Language** dimension (English, Spanish, Arabic)  
+2. Compared bounce rates, session duration, and conversion rates across the three groups  
+3. Noted that Spanish and Arabic speakers had **higher bounce rates** (65% vs. 45% for English)
+
+**Key Insight:**  
+Non-English pages lacked full product descriptions and clear calls-to-action.
+
+**Recommendation:**  
+- Translate key landing pages into Spanish and Arabic  
+- Add language selector to homepage header  
+
+**Outcome (Simulated):**  
+Implementing these changes in a mock A/B test reduced bounce rates by **18%** for Spanish speakers and **22%** for Arabic speakers.
+
+**Skills Demonstrated:**  
+Dimension filtering • Metric comparison • Data-driven localization recommendations • Cross-cultural awareness
+
+---
+
+### Project 2: Team Collaboration Dashboard
+
+**Objective:** Create a simple dashboard for a 5‑person academic team to track shared project contributions and communication efficiency.
+
+**Tools Used:**  
+Google Analytics 4 (Custom event simulation) • Looker Studio (mock data)
+
+**Process:**  
+1. Simulated “event tracking” for team actions (document edits, meeting attendance, message responses)  
+2. Built a Looker Studio dashboard showing individual and team activity over time  
+3. Shared dashboard with team members to identify participation gaps
+
+**Key Insight:**  
+Two team members had low activity during weeks 3–4; one member accounted for 40% of document edits.
+
+**Action Taken:**  
+- Rebalanced task assignments  
+- Scheduled a mid‑project check‑in to address workload concerns  
+
+**Result:**  
+Team satisfaction improved (post‑survey score: 4.6/5), and final project was submitted on time with all members contributing.
+
+**Skills Demonstrated:**  
+Custom event logic • Dashboard creation • Team process improvement • Data communication
+
+---
+
+### Project 3: Website Traffic Analysis for a Hypothetical Student Organization
+
+**Objective:** Analyze traffic patterns for a mock student group website (“CPP Multilingual Connection”) and suggest content improvements.
+
+**Tools Used:**  
+Google Analytics 4 (Demo property reconfigured for student org simulation) • Google Slides
+
+**Process:**  
+1. Reviewed 3 months of simulated traffic data:
+   - Top source: Direct traffic (40%)  
+   - Top landing page: “Events” (35% of entries)  
+   - High exit rate (70%) on “Join Us” page  
+
+2. Identified that users landed on Events but didn’t sign up because the “Join Us” form was too long.
+
+**Recommendation:**  
+- Shorten form from 8 fields to 4  
+- Add a clear “Sign Up Now” button on every event page  
+
+**Simulated Result:**  
+Form completion rate increased from **12% to 34%** in a follow‑up test.
+
+**Presentation:**  
+Delivered findings in a 5‑minute bilingual presentation (English + Arabic) to classmates, receiving feedback on clarity and actionability.
+
+**Skills Demonstrated:**  
+Traffic source analysis • Landing page optimization • Form analytics • Bilingual presentation
+
+---
+
+## Next Steps
+
+I am currently working toward **Google Analytics Individual Qualification (IQ)** and plan to add real-world case studies from internships or volunteer projects. Stay tuned.
+
+---
+
+[Back to Home](index.qmd) | [All Projects](projects.qmd)

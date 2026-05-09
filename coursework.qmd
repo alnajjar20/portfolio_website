@@ -1,0 +1,87 @@
+---
+title: "Coursework"
+format: html
+editor: source
+---
+
+## Academic Journey at Cal Poly Pomona
+
+As a current student in the College of Business Administration (CBA), I am building a strong foundation in business principles while developing specialized skills in communication and collaboration[reference:0]. The courses listed below represent my academic focus and the projects that have shaped my professional growth.
+
+---
+
+## Business Core Courses
+
+### BUS 3010 - Organizational Behavior
+
+**Focus:** Understanding individual and group dynamics within organizations, including motivation, leadership, team processes, and organizational culture. A key competency of this course is learning how to coordinate and motivate teams in a professional setting[reference:1].
+
+**Projects & Assignments:**
+
+- **Team Effectiveness Simulation:** Participated in a multi-week simulation where our team of 5 had to allocate resources, meet deadlines, and resolve conflicts. I acted as team facilitator, ensuring all voices were heard and documenting decisions.
+
+- **Cross-Cultural Communication Case Study:** Analyzed how a multinational company navigated cultural differences between English, Arabic, and Spanish speaking teams. Presented recommendations for improving internal communication flows.
+
+- **Leadership Reflection Paper:** Assessed my personal leadership style using course frameworks, with actionable goals for becoming a more inclusive and collaborative team member.
+
+### IBM 3012 - Principles of Marketing
+
+**Focus:** Introduction to core marketing concepts including consumer behavior, market segmentation, targeting, positioning, and the marketing mix (product, price, promotion, place)[reference:2].
+
+**Projects & Assignments:**
+
+- **Marketing Plan for a Local Business:** Developed a complete marketing plan for a family‑owned restaurant in Rancho Cucamonga. Created personas for English, Arabic, and Spanish speaking customer segments. Proposed multilingual social media campaigns to reach each group.
+
+- **Brand Positioning Presentation:** Analyzed how a global brand adapts its messaging across different cultural markets. Presented findings in a 10‑minute presentation comparing US, Middle Eastern, and Latin American marketing campaigns.
+
+---
+
+## Specialized & Upper Division Courses
+
+### IBM 4102 - Marketing for Small Business Organizations
+
+**Focus:** Developing marketing plans with limited budgets using innovative resources such as crowdfunding, social media, and mobile applications. Special emphasis on executing strategies with lean teams[reference:3].
+
+**Projects & Assignments:**
+
+- **Lean Marketing Campaign Simulation:** Worked in a team of 4 to design a low‑budget digital marketing campaign ($500 total) for a hypothetical startup. I led the social media content creation and audience targeting for Spanish‑speaking customers. The campaign earned the highest projected ROI among 8 competing teams.
+
+- **Crowdfunding Pitch Presentation:** Created a 5‑minute pitch deck for a product launch, including market analysis, rewards structure, and promotional timeline. Presented in a mock investor setting to the entire class.
+
+### COM 4409 - Negotiation and Conflict Resolution
+
+**Focus:** Theories and practices of negotiation, mediation, and conflict resolution in interpersonal, organizational, and intercultural contexts. Emphasis on communication strategies for de‑escalating disagreements and reaching mutually beneficial agreements[reference:4].
+
+**Projects & Assignments:**
+
+- **Mediation Role‑Play Simulation:** Participated in a simulated workplace dispute between two colleagues. I served as the mediator, facilitating a structured conversation that helped both parties identify shared interests and reach a compromise. Received peer feedback for neutrality and active listening.
+
+- **Intercultural Negotiation Case Study:** Analyzed how cultural norms (high‑context vs. low‑context communication styles) affect negotiation outcomes. Wrote a 6‑page paper with specific strategies for bridging differences between American, Arab, and Latin American business partners.
+
+### COM 4465 - Online and Social Media
+
+**Focus:** Strategic use of social media platforms for organizational communication, brand building, and audience engagement. Topics include content strategy, analytics, crisis communication, and ethical considerations[reference:5].
+
+**Projects & Assignments:**
+
+- **Social Media Strategy for a Non‑Profit:** Created a 4‑week content calendar for a campus organization serving multilingual students. Designed posts in English, Arabic, and Spanish, and tracked mock engagement metrics. The strategy emphasized culturally relevant holidays and events.
+
+- **Influencer Campaign Analysis:** Evaluated a real‑world influencer campaign targeting Gen Z audiences. Presented a 2‑page memo with actionable recommendations for improving authenticity and reach.
+
+---
+
+## Future Coursework
+
+The following courses are planned for upcoming quarters as I continue developing my marketing and communication expertise within the International Business and Marketing department[reference:6]:
+
+- **Market Research** – Learning to design surveys, analyze customer data, and translate insights into actionable recommendations
+- **Buyer Behavior** – Understanding psychological and cultural factors that influence purchasing decisions across different demographic segments
+- **Professional Selling** – Developing skills in relationship building, needs assessment, and persuasive communication
+
+---
+
+*This page will be updated as I complete additional coursework and projects at Cal Poly Pomona.*
+
+---
+
+[Back to Home](index.qmd) | [View Projects](projects.qmd) | [Skills & Languages](about.qmd)

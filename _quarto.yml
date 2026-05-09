@@ -1,0 +1,55 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "portfolio_website"
+  open-graph: true
+
+  navbar:
+    title: "Amir Alnajjar"
+    pinned: true
+    background: "#ffffff"
+    foreground: "#111111"
+    tools:
+      - icon: github
+        href: https://github.com
+
+  sidebar:
+    #style: "floating"
+    collapse-level: 1
+    search: true
+    pinned: false
+    background: "#ffffff"
+
+    contents:
+        - href: index.qmd
+          text: Home
+        - about.qmd
+        - coursework.qmd
+        - digital-marketing.qmd
+        - google-analytics.qmd
+        - projects.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    page-layout: full
+    smooth-scroll: true
+
+    fontsize: 1.05rem
+    linestretch: 1.7
+
+    backgroundcolor: "#f8f9fb"
+    fontcolor: "#1a1a1a"
+    linkcolor: "#3a3a3a"
+
+    mainfont: "Inter"
+
+editor: visual
+
+
+       
+

@@ -1,0 +1,44 @@
+---
+title: "Resume"
+format: html
+editor: source
+---
+
+## Summary
+
+Motivated university student currently pursuing a Bachelor's degree at California State Polytechnic University, Pomona (Cal Poly Pomona). Passionate about learning, personal growth, and developing professional skills that prepare me for future career opportunities. I bring strong communication abilities, multilingual skills, and a commitment to collaboration. Proven ability to contribute effectively in team environments, build consensus, and adapt to diverse professional and cultural contexts. Seeking opportunities where I can apply my communication and teamwork strengths while continuing to grow academically and professionally.
+
+## Education
+
+### California State Polytechnic University, Pomona
+
+Bachelor's Degree (In Progress)
+
+### Rancho Cucamongo High School, Rancho Cucamonga, California
+
+High School Diploma
+
+## Languages
+
+- English (Fluent)
+- Arabic (Fluent)
+- Spanish (Fluent)
+
+## Skills
+
+- Multilingual Communication
+- Team Collaboration
+- Cross-Cultural Facilitation
+- Active Listening & Feedback Integration
+- Process Coordination
+- Adaptability & Rapid Learning
+
+## Professional Objective
+
+To continue developing academically and professionally while gaining real-world experience that strengthens my skills and prepares me for long-term career success.
+
+---
+
+Let’s connect. Whether you’re looking for a motivated team member, a multilingual communicator, or a collaborative student ready to contribute, I’d be glad to connect.
+
+[Email](mailto:your.email@example.com) | [GitHub](https://github.com/yourusername) | [LinkedIn](https://www.linkedin.com/in/yourprofile)

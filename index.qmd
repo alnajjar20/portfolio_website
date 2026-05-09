@@ -1,0 +1,36 @@
+---
+title: "Amir Alnajjar"
+about:
+  template: trestles
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/alnajjar20
+  image: image.jpeg
+  image-shape: round
+  image-width: 10em
+---
+
+## Hi, I'm Amir Alnajjar
+
+## Motivated university student. Multilingual communicator. Collaborative team member
+
+## About
+
+I’m a motivated university student currently pursuing a **Bachelor’s degree at California State Polytechnic University, Pomona (Cal Poly Pomona)**. I am passionate about learning, personal growth, and developing professional skills that prepare me for future career opportunities.
+
+I bring strong communication abilities, multilingual fluency, and a commitment to collaboration. My academic journey includes a **High School Diploma from Rancho Cucamongo High School** (Rancho Cucamonga, California). This portfolio will grow to include team projects, class presentations, and real‑world experiences that strengthen my skills.
+
+### For Teams & Projects
+
+- **Multilingual communication** – facilitating understanding among English, Arabic, and Spanish speakers
+- **Team collaboration** – contributing effectively in group settings to achieve shared goals
+- **Commitment to growth** – actively seeking feedback and learning opportunities to improve team outcomes
+
+---
+
+## Let’s Connect
+
+Whether you’re looking for a motivated team member, a multilingual communicator, or a collaborative student ready to contribute, I’d be glad to connect.
+
+[Email](mailto:Alnajjar@cpp.edu) | [GitHub](https://github.com/alnajjar20) | 

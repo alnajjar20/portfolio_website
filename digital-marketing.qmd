@@ -1,0 +1,110 @@
+---
+title: "Digital Marketing"
+format: html
+editor: source
+---
+
+## Overview
+
+As a multilingual communicator and collaborative team member, I’ve explored digital marketing concepts through academic simulations and self-directed learning. The projects below represent hypothetical campaigns designed to demonstrate my understanding of core marketing channels—social media, email, content, and paid ads—while applying my strengths in cross-cultural communication and teamwork.
+
+> **Note:** These are simulated projects created for portfolio development purposes. They reflect my ability to plan, execute (in mock environments), and analyze digital marketing efforts.
+
+---
+
+### Project 1: Multilingual Social Media Campaign – “CPP Global Connect”
+
+**Objective:** Promote a fictional campus organization (“CPP Global Connect”) to international and multilingual students across three language audiences (English, Arabic, Spanish).
+
+**Platforms Used (Simulated):**  
+Instagram • TikTok • Meta Ads Manager (mock)
+
+**Strategy:**  
+- Created a content calendar with **12 posts** over 4 weeks, each translated into Arabic and Spanish captions  
+- Ran A/B tests on ad copy: English-only vs. multilingual captions  
+- Targeted students by language preference based on device/browser settings  
+
+**Hypothetical Results:**  
+- Multilingual captions increased engagement rate by **45%** compared to English-only  
+- Spanish and Arabic posts saw **2.5x** more shares  
+- Event RSVPs (simulated) grew by **60%** during campaign period  
+
+**Skills Demonstrated:**  
+Content translation • Audience segmentation • A/B testing • Campaign scheduling
+
+---
+
+### Project 2: Email Marketing Funnel for a Fictional Language Tutoring Service
+
+**Objective:** Design and simulate a 3‑email drip campaign to convert website visitors into paying customers for “LingoBridge Tutoring.”
+
+**Tools Used (Simulated):**  
+Mailchimp (mock) • Google Forms (lead capture)
+
+**Funnel Stages:**  
+1. **Welcome Email** (Day 0): Free “10 Common Mistakes in English/Arabic/Spanish” PDF download  
+2. **Engagement Email** (Day 3): Student success story + discount code for first session  
+3. **Closing Email** (Day 7): Urgency (“Only 5 spots left this month”) + testimonials
+
+**Hypothetical Results:**  
+- Open rate: **52%** (above industry average of 40%)  
+- Click-through rate: **18%**  
+- Conversion rate (lead to booking): **12%**
+
+**Skills Demonstrated:**  
+Email sequence design • Copywriting (trilingual subject lines) • Funnel analytics • Lead magnet creation
+
+---
+
+### Project 3: Content Marketing – Bilingual Blog Series for a Small Business
+
+**Client (Hypothetical):** “Taste of Two Worlds” – a family‑owned restaurant serving Middle Eastern and Latin American fusion food.
+
+**Challenge:** Increase online reservations from both English‑speaking and Spanish‑speaking audiences.
+
+**Approach:**  
+- Wrote and published **4 blog posts** over 2 months:  
+  - *“5 Dishes That Bring Beirut and Mexico City to Your Plate”* (English + Spanish versions)  
+  - *“How We Source Halal and Kosher Ingredients in One Kitchen”* (English + Arabic)  
+  - *“Behind the Scenes: Family Recipes Passed Down for Generations”* (trilingual)  
+  - *“Catering for Ramadan and Cinco de Mayo – Yes, We Do Both”* (English + Spanish)  
+
+- Promoted posts via organic social media (Facebook, Instagram)
+
+**Hypothetical Results:**  
+- Blog traffic increased by **150%** month-over-month  
+- Online reservations grew by **35%**  
+- Spanish‑language posts drove **40%** of new traffic
+
+**Skills Demonstrated:**  
+Content writing (bilingual) • SEO basics (keywords: “fusion food,” “halal Mexican”) • Traffic analysis • Audience targeting
+
+---
+
+### Project 4: Paid Ads Simulation – Google Search Campaign for a Local Bookstore
+
+**Objective:** Drive foot traffic to a fictional independent bookstore (“Rancho Reads”) during a weekend sale event.
+
+**Platform Simulated:**  
+Google Ads (Search Network only)
+
+**Keywords Targeted (Mock Data):**  
+- “bookstore near Rancho Cucamonga”  
+- “used books sale this weekend”  
+- “Arabic children’s books”  
+- “Spanish bestsellers”
+
+**Ad Copy (Two Versions):**  
+- A: *“Weekend Sale – 20% Off All Books. Rancho Reads. Open Sat-Sun.”*  
+- B: *“¡Visítanos! Libros en español y árabe. Ofertas este fin de semana.”* (Spanish)
+
+**Hypothetical Results:**  
+- Ad B (Spanish) had **2x** click-through rate (CTR) vs. Ad A  
+- Estimated foot traffic increase: **80 visitors** over the weekend (simulated)  
+- Cost per click (mock): $1.20 – below assumed budget of $2.00
+
+**Skills Demonstrated:**  
+Keyword research • Ad copy localization • CTR optimization • Budget planning
+
+
+[Back to Home](index.qmd) | [Google Analytics](google-analytics.qmd) | [All Projects](projects.qmd)

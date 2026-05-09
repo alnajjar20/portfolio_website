@@ -1,0 +1,88 @@
+---
+title: "Projects"
+format: html
+editor: source
+---
+
+## Featured Work
+
+Below are selected academic and collaborative projects that demonstrate my commitment to teamwork, multilingual communication, and practical problem-solving.
+
+---
+
+### Multilingual Campus Resource Guide
+
+**Role:** Team Lead & Translator (Arabic/English)  
+**Course:** BUS 3000 – Professional Communication  
+**Timeline:** September 2025 – December 2025
+
+**Challenge:** Many international students on campus struggled to find basic services (health center, tutoring, housing assistance) due to language barriers and fragmented information.
+
+**My Role:**  
+- Led a team of 4 students to create a trilingual resource guide (English, Arabic, Spanish)  
+- Translated all content into Arabic and coordinated with Spanish-speaking teammate  
+- Presented the guide to the university’s International Student Office for feedback
+
+**Result:**  
+- Guide distributed to 150+ students during orientation week  
+- Received positive feedback from international student advisors  
+- Project earned an **A** grade and was recommended for wider university use
+
+**Skills Demonstrated:**  
+Multilingual translation • Team leadership • Cross-cultural communication • Project coordination
+
+---
+
+### Team Collaboration Case Study: Group Problem-Solving Simulation
+
+**Role:** Facilitator & Note-taker  
+**Course:** MHR 3010 – Organizational Behavior  
+**Timeline:** February 2026 – April 2026
+
+**Challenge:** A 5-member team had to solve a complex business simulation involving resource allocation, deadline pressure, and conflicting viewpoints among members.
+
+**My Role:**  
+- Acted as primary facilitator, ensuring all voices were heard  
+- Documented decisions and action items in shared Google Docs  
+- Mediated a disagreement between two members by proposing a compromise based on data from the simulation  
+
+**Result:**  
+- Team completed simulation two days ahead of deadline  
+- Earned **95%** on the final report  
+- Peer feedback praised my ability to “keep everyone focused and respected”
+
+**Skills Demonstrated:**  
+Conflict mediation • Meeting facilitation • Documentation • Adaptability under pressure
+
+---
+
+### Rancho Cucamonga High School Alumni Panel: Pathways to College Success
+
+**Role:** Panelist & Co-Organizer  
+**Type:** Community Service / Leadership  
+**Timeline:** March 2026
+
+**Challenge:** Current high school students needed relatable, multilingual advice about transitioning to a four-year university, especially from first-generation backgrounds.
+
+**My Role:**  
+- Co-organized a panel of 6 alumni now at Cal Poly Pomona, UC Riverside, and Chaffey College  
+- Shared personal journey from high school to university, emphasizing study habits and resource use  
+- Answered questions in English and Spanish for bilingual attendees
+
+**Result:**  
+- 40+ high school students attended  
+- Post-event survey showed **92%** felt more confident about applying to college  
+- Invited back for fall 2026 session
+
+**Skills Demonstrated:**  
+Public speaking (bilingual) • Event coordination • Mentorship • Community engagement
+
+---
+
+## More to Come
+
+This portfolio will continue to grow with new projects from my upper-division business courses, potential internships, and real-world team collaborations. Check back soon!
+
+---
+
+[Back to Home](index.qmd) | [Contact Me](about.qmd#contact)
