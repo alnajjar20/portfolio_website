@@ -1,0 +1,41 @@
+---
+title: "Certifications"
+format: html
+editor: source
+---
+
+## Professional Certifications
+
+Through targeted coursework and professional training, I have earned certifications in data analytics, visualization, and enterprise software to build a comprehensive technical skill set.
+
+---
+
+### Data Analytics & Visualization
+
+**Google Analytics 4 Certification**  
+*Issuer: Google*  
+Completed the rigorous GA4 certification covering property setup, reporting, exploration, and custom insights generation.  
+[View Certificate](.information/Amir Alnajjar GA4 Certification.html){.btn-outline target="_blank"}
+
+**Tableau 2024.1: Essential Training**  
+*Issuer: LinkedIn Learning & NASBA*  
+Comprehensive training on connecting to data sources, building interactive dashboards, and designing compelling data visualizations.  
+[LinkedIn Certificate](.information/CertificateOfCompletion_Tableau 2024.1 Essential Training.pdf Linkeldin.pdf){.btn-outline target="_blank"} | [NASBA Certificate](.information/CertificateOfCompletion_Tableau 2024.1 Essential Training.pdf NASBA.pdf){.btn-outline target="_blank"}
+
+**Excel: PivotTables in Depth**  
+*Issuer: LinkedIn Learning*  
+Advanced data manipulation using PivotTables, calculated fields, and power query workflows.  
+[View Certificate](.information/CertificateOfCompletion_Excel PivotTables in Depth.pdf L.pdf){.btn-outline target="_blank"}
+
+---
+
+### Enterprise Resource Planning (SAP)
+
+I have completed extensive training in SAP's ecosystem, focusing on various business modules required for enterprise management:
+
+- **SAP FI (Financial Accounting)**: [View Certificate](.information/SAP FI.pdf){.btn-outline target="_blank"}
+- **SAP S/4HANA Overview**: [View Certificate](.information/SAP S.pdf){.btn-outline target="_blank"}
+- **SAP S1 Module**: [View Certificate](.information/SAP S1.pdf){.btn-outline target="_blank"}
+- **SAP Sales and Operations Planning**: [View Certificate](.information/SAP SaMP.pdf){.btn-outline target="_blank"}
+
+---

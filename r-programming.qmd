@@ -1,0 +1,87 @@
+---
+title: "M12-Reflection Essay-Advanced R Programming"
+subtitle: "Revealjs Presentation"
+author: "Amir Alnajjar"
+institute: "IBM 3202, Cal Poly Pomona"
+date: "`r Sys.Date()`"
+format: 
+  revealjs:
+    theme: serif
+    width: 1600
+    height: 900
+    footer: Reflections on M12 Learned Lessons
+    transition: slide
+    transition-speed: default
+    incremental: false
+    toc: true
+    toc-depth: 1
+    slide-number: true
+    scrollable: true
+    smaller: true
+    code-fold: false
+    code-overflow: wrap
+    number-sections: false
+    number-depth: 5
+    embed-resources: true
+    css: styles.css
+editor: visual
+execute: 
+  echo: true
+  freeze: auto
+---
+# Prompt 1
+
+From Dr. Dave Robinson’s demonstration, I learned that functions are essential for writing efficient and organized code. Instead of copying and pasting similar blocks of code, you can wrap that logic into a function and reuse it whenever needed. This not only reduces redundancy but also makes your code easier to maintain and update.
+
+------------------------------------------------------------------------
+
+# Prompt 2
+
+Dr. Pat Schloss explained how the purrr package makes iteration in R more intuitive by replacing loops with functional tools like map(). The focus shifts from controlling the loop to simply describing the operation you want to apply. One example is applying a summary function across multiple variables. Instead of writing separate commands for each variable, map_dbl() can be used to return numeric results efficiently.
+```{r}
+
+library(dplyr)
+library(purrr)
+
+iris %>%
+  split(.$Species) %>%
+  map(~ lm(Sepal.Length ~ Petal.Length, data = .)) %>%
+  map(summary)
+
+```
+
+------------------------------------------------------------------------
+
+# Prompt 3
+
+From Hadley Wickham’s presentation, I gained a better understanding of how functional programming improves code structure and clarity. One new concept for me was the idea of treating functions as reusable building blocks that can be passed into other functions. I also found the use of inline (anonymous) functions very powerful because they allow quick transformations without creating unnecessary objects. Another key insight was the emphasis on writing functions that avoid side effects, which helps ensure consistent and predictable results. These ideas have encouraged me to write cleaner and more modular code in my projects.
+
+------------------------------------------------------------------------
+
+# Prompt 4
+
+The Quarto dashboard approach introduced by Dr. Albert Rapp appealed to me because of how seamlessly it combines analysis and presentation. Unlike some tools that require separate steps for coding and visualization, Quarto keeps everything in one place. I also liked that it does not require much setup, which makes it practical for quick reporting. Compared to other tools, it feels more focused on communication rather than just building interactive features.
+
+------------------------------------------------------------------------
+
+# Prompt 5
+
+Parameterized reporting is essentially a way of making reports flexible without rewriting them. By defining inputs at the beginning, you can reuse the same document to produce different outputs. This is especially useful when working with similar reports that only differ by a few variables. In practice, this could be used to generate reports for different regions or time periods automatically. I see this being very useful in reducing manual work and ensuring that reports are consistent across different outputs.
+
+------------------------------------------------------------------------
+
+# Prompt 6
+
+Sean Nguyen’s presentation highlighted the importance of making data easy to consume rather than just available. He pointed out that users often ignore dashboards because they are too dense or require too much effort to interpret. His suggestion is to focus on delivering key messages clearly and directly. This can be done by simplifying visuals, focusing on important insights, and even sending updates directly to users. The emphasis is on making the information actionable rather than just visually appealing.
+
+------------------------------------------------------------------------
+
+# Prompt 7
+
+A major challenge for me in these modules was adjusting to new tools and ways of thinking, especially moving from traditional coding approaches to functional programming. Understanding how different functions work together in a pipeline took some effort. I also found it challenging to organize Quarto documents effectively at first. However, as I practiced, I began to see how these tools can save time and make my work more efficient.
+
+------------------------------------------------------------------------
+
+# Prompt 8
+
+The learning experience has helped me rethink data analysis and my approaches. Instead of focusing only on getting results, I now pay more attention to how the process is structured. I plan to apply these skills by automating repetitive tasks and improving how I present results. With the growth of AI, I believe these skills will be even more valuable, as they can be combined with automation tools to create faster and more reliable workflows.

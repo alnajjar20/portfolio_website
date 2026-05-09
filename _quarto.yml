@@ -11,6 +11,19 @@ website:
     pinned: true
     background: "#ffffff"
     foreground: "#111111"
+    left:
+      - text: "Data Science"
+        menu:
+          - text: "Data Visualization"
+            href: data-viz.qmd
+          - text: "Data Wrangling"
+            href: data-wrangling.qmd
+          - text: "R Data Types"
+            href: data-types.qmd
+          - text: "Advanced R Programming"
+            href: r-programming.qmd
+          - text: "Cloud Analytics"
+            href: cloud-analytics.qmd
     tools:
       - icon: github
         href: https://github.com
@@ -27,6 +40,14 @@ website:
           text: Home
         - about.qmd
         - coursework.qmd
+        - certifications.qmd
+        - section: "Data Science Projects"
+          contents:
+            - data-viz.qmd
+            - data-wrangling.qmd
+            - data-types.qmd
+            - r-programming.qmd
+            - cloud-analytics.qmd
         - digital-marketing.qmd
         - google-analytics.qmd
         - projects.qmd

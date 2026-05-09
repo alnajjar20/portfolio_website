@@ -1,0 +1,52 @@
+---
+title: "Data Science"
+format: html
+editor: source
+---
+
+## Data Science & Analytics
+
+My approach to data science emphasizes reproducible research, clean data wrangling, and compelling visualizations using the R and Tidyverse ecosystem.
+
+---
+
+### Data Visualization
+
+**Exploring the Wooldridge Dataset**  
+Using `ggplot2` and `wooldridge` packages, I analyzed student attendance and GPA data. The project involved:
+- Crafting professional tables using the `gt` package.
+- Comparing Dodge, Stack, and Faceted Barplots to properly evaluate group differences.
+- Using Boxplots with jitter to understand distribution spreads alongside central tendencies.
+- Evaluating Moderation effects (e.g. how freshman status moderates the impact of ACT scores on attendance).
+
+[View Full Reflection & Code](.information/Alnajjar, Amir-M03-2-Data-Viz-Application.qmd)
+
+### Advanced Data Wrangling
+
+**Tidyverse Workflows**  
+I've gained deep experience in structuring and cleaning messy data using Tidyverse:
+- Extensive use of `case_when()`, `across()`, and tidyselect helpers to streamline workflows.
+- Implementing robust data cleaning pipelines that prioritize quality over quantity.
+- Merging datasets confidently using join functions like `left_join()`.
+- Building automated slide decks and reports directly from code using **Quarto** and **Reveal.js**.
+
+[View Full Reflection](.information/Alnajjar, Amir-M06-Reflection Essay-Adv Data-Wrangling.qmd)
+
+### Advanced Programming in R
+
+**Scaling Statistical Analysis**  
+- Automating repetitive tasks and transitioning from loops to functional programming using `purrr::map()`.
+- Utilizing the `broom` package to tidy and organize complex model outputs.
+- Developing reusable processes and functions to handle varied data inputs efficiently.
+
+[View Full Reflection](.information/Alnajjar, Amir-M12-Reflection Essay-Adv Program in R.qmd)
+
+### Google Cloud BigQuery & Looker Studio
+
+**Cloud Analytics Workflow**  
+Applying data analysis to real-world cloud infrastructure:
+- **Query**: Writing structured SQL in BigQuery to filter and aggregate large public datasets.
+- **Transform**: Cleaning and shaping query results.
+- **Communicate**: Designing interactive visual reports and dashboards using Looker Studio to track trends and geographical patterns.
+
+[View Full Reflection](.information/W08-Data Analytics (Google Cloud BigQuery and Looker Studio)_Alnajjar_Amir.qmd)
