@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - "rendered/**"
 
 website:
   title: "portfolio_website"
@@ -41,6 +43,8 @@ website:
         - about.qmd
         - coursework.qmd
         - certifications.qmd
+        - href: presentations.qmd
+          text: Revealjs Presentations
         - section: "Data Science Projects"
           contents:
             - data-viz.qmd
